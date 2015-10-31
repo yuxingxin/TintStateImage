@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TintStateImage">
+        <attr name="colorStateList" format="reference|color" />
+    </declare-styleable>
+</resources>
